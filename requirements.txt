@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain==0.3.13
+langchain-openai
+langchain-community
+faiss-cpu
+pydantic
+pypdf
